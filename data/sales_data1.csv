@@ -1,0 +1,601 @@
+﻿Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Customer_Segment,Month
+ORD-1381,02-Jan-2025,East,Office Supplies,Stapler,6,₹8.73,5%,₹49.76,₹37.82,₹11.94,Consumer,Jan
+ORD-1104,03-Jan-2025,North,Office Supplies,Pen Pack,4,₹15.76,15%,₹53.58,₹37.09,₹16.49,Small Business,Jan
+ORD-1575,03-Jan-2025,North,Furniture,Bookshelf,2,₹159.71,15%,₹271.51,₹258.11,₹13.40,Corporate,Jan
+ORD-1465,03-Jan-2025,West,Furniture,Office Chair,1,₹202.68,5%,₹192.55,₹149.20,₹43.35,Small Business,Jan
+ORD-1303,04-Jan-2025,North,Technology,Headphones,1,₹120.74,10%,₹108.67,₹89.83,₹18.84,Consumer,Jan
+ORD-1410,06-Jan-2025,East,Furniture,Desk,2,₹487.07,5%,₹925.43,₹725.59,₹199.84,Small Business,Jan
+ORD-1478,07-Jan-2025,North,Furniture,Table,2,₹327.63,5%,₹622.50,₹347.20,₹275.30,Corporate,Jan
+ORD-1415,07-Jan-2025,East,Furniture,Office Chair,8,₹187.22,5%,"₹1,422.87",₹962.93,₹459.94,Corporate,Jan
+ORD-1300,08-Jan-2025,East,Furniture,Desk,1,₹203.01,0%,₹203.01,₹123.47,₹79.54,Small Business,Jan
+ORD-1233,08-Jan-2025,South,Furniture,Table,4,₹143.03,0%,₹572.12,₹405.11,₹167.01,Consumer,Jan
+ORD-1540,08-Jan-2025,East,Office Supplies,Printer Paper,7,₹18.12,10%,₹114.16,₹73.18,₹40.98,Small Business,Jan
+ORD-1170,09-Jan-2025,South,Office Supplies,Stapler,4,₹19.30,0%,₹77.20,₹57.28,₹19.92,Corporate,Jan
+ORD-1272,09-Jan-2025,North,Technology,Headphones,7,₹55.69,10%,₹350.85,₹214.05,₹136.80,Consumer,Jan
+ORD-1369,09-Jan-2025,West,Office Supplies,Printer Paper,6,₹13.07,10%,₹70.58,₹51.55,₹19.03,Small Business,Jan
+ORD-1429,10-Jan-2025,East,Office Supplies,Pen Pack,5,₹4.93,10%,₹22.18,₹19.80,₹2.38,Consumer,Jan
+ORD-1454,10-Jan-2025,West,Technology,Monitor,6,₹371.51,10%,"₹2,006.15","₹1,773.77",₹232.38,Consumer,Jan
+ORD-1138,12-Jan-2025,South,Furniture,Table,8,₹239.74,10%,"₹1,726.13","₹1,531.25",₹194.88,Corporate,Jan
+ORD-1385,12-Jan-2025,East,Technology,Keyboard,3,₹75.78,10%,₹204.61,₹132.38,₹72.23,Small Business,Jan
+ORD-1147,13-Jan-2025,East,Furniture,Table,3,₹160.14,0%,₹480.42,₹333.76,₹146.66,Small Business,Jan
+ORD-1117,14-Jan-2025,East,Office Supplies,Folder Pack,6,₹12.58,5%,₹71.71,₹40.50,₹31.21,Corporate,Jan
+ORD-1328,14-Jan-2025,South,Office Supplies,Printer Paper,3,₹13.91,10%,₹37.56,₹27.97,₹9.59,Corporate,Jan
+ORD-1250,16-Jan-2025,East,Office Supplies,Notebook,8,₹6.03,0%,₹48.24,₹28.89,₹19.35,Consumer,Jan
+ORD-1562,16-Jan-2025,South,Office Supplies,Folder Pack,7,₹19.35,0%,₹135.45,₹99.27,₹36.18,Small Business,Jan
+ORD-1056,16-Jan-2025,East,Furniture,Bookshelf,6,₹98.35,15%,₹501.58,₹416.22,₹85.36,Corporate,Jan
+ORD-1352,17-Jan-2025,South,Technology,Laptop,4,₹527.49,10%,"₹1,898.96","₹1,319.62",₹579.34,Consumer,Jan
+ORD-1397,17-Jan-2025,East,Office Supplies,Stapler,1,₹20.16,0%,₹20.16,₹11.94,₹8.22,Corporate,Jan
+ORD-1574,18-Jan-2025,North,Office Supplies,Stapler,1,₹7.12,15%,₹6.05,₹5.70,₹0.35,Small Business,Jan
+ORD-1584,19-Jan-2025,South,Technology,Laptop,5,₹858.74,0%,"₹4,293.70","₹2,655.02","₹1,638.68",Small Business,Jan
+ORD-1546,20-Jan-2025,South,Furniture,Desk,5,₹272.47,0%,"₹1,362.35",₹773.21,₹589.14,Consumer,Jan
+ORD-1542,21-Jan-2025,South,Office Supplies,Printer Paper,3,₹21.26,0%,₹63.78,₹48.56,₹15.22,Consumer,Jan
+ORD-1150,22-Jan-2025,North,Office Supplies,Pen Pack,8,₹17.78,20%,₹113.79,₹112.63,₹1.16,Corporate,Jan
+ORD-1279,24-Jan-2025,East,Office Supplies,Stapler,6,₹21.04,10%,₹113.62,₹89.31,₹24.31,Small Business,Jan
+ORD-1036,24-Jan-2025,East,Technology,Keyboard,4,₹33.07,10%,₹119.05,₹83.74,₹35.31,Small Business,Jan
+ORD-1045,25-Jan-2025,West,Office Supplies,Folder Pack,5,₹9.75,5%,₹46.31,₹26.27,₹20.04,Consumer,Jan
+ORD-1518,25-Jan-2025,East,Office Supplies,Notebook,8,₹10.38,5%,₹78.89,₹44.39,₹34.50,Consumer,Jan
+ORD-1387,25-Jan-2025,East,Furniture,Table,1,₹158.28,0%,₹158.28,₹129.15,₹29.13,Small Business,Jan
+ORD-1069,28-Jan-2025,West,Technology,Laptop,6,₹794.78,0%,"₹4,768.68","₹3,545.81","₹1,222.87",Corporate,Jan
+ORD-1217,29-Jan-2025,North,Office Supplies,Pen Pack,5,₹5.28,5%,₹25.08,₹18.21,₹6.87,Corporate,Jan
+ORD-1127,29-Jan-2025,East,Technology,Laptop,1,₹549.41,15%,₹467.00,₹381.33,₹85.67,Consumer,Jan
+ORD-1439,30-Jan-2025,South,Furniture,Table,6,₹307.44,20%,"₹1,475.71","₹1,334.42",₹141.29,Corporate,Jan
+ORD-1431,31-Jan-2025,South,Office Supplies,Printer Paper,7,₹21.70,0%,₹151.90,₹114.39,₹37.51,Consumer,Jan
+ORD-1246,31-Jan-2025,North,Office Supplies,Printer Paper,2,₹13.16,0%,₹26.32,₹17.81,₹8.51,Corporate,Jan
+ORD-1280,31-Jan-2025,East,Office Supplies,Printer Paper,1,₹6.13,0%,₹6.13,₹4.16,₹1.97,Corporate,Jan
+ORD-1007,01-Feb-2025,South,Office Supplies,Folder Pack,4,₹18.90,0%,₹75.60,₹44.19,₹31.41,Corporate,Feb
+ORD-1196,01-Feb-2025,South,Furniture,Office Chair,6,₹98.08,5%,₹559.06,₹341.35,₹217.71,Consumer,Feb
+ORD-1172,02-Feb-2025,West,Office Supplies,Printer Paper,5,₹24.36,10%,₹109.62,₹76.82,₹32.80,Consumer,Feb
+ORD-1001,02-Feb-2025,East,Furniture,Office Chair,5,₹233.24,15%,₹991.27,₹855.01,₹136.26,Corporate,Feb
+ORD-1133,03-Feb-2025,West,Technology,Mouse,8,₹27.70,10%,₹199.44,₹134.50,₹64.94,Corporate,Feb
+ORD-1359,03-Feb-2025,West,Furniture,Desk,7,₹452.88,0%,"₹3,170.16","₹1,675.39","₹1,494.77",Corporate,Feb
+ORD-1033,03-Feb-2025,South,Technology,Mouse,8,₹46.43,5%,₹352.87,₹234.38,₹118.49,Consumer,Feb
+ORD-1243,04-Feb-2025,West,Furniture,Desk,3,₹586.59,10%,"₹1,583.79","₹1,237.39",₹346.40,Consumer,Feb
+ORD-1376,04-Feb-2025,North,Office Supplies,Folder Pack,4,₹5.16,0%,₹20.64,₹16.81,₹3.83,Consumer,Feb
+ORD-1010,04-Feb-2025,West,Furniture,Filing Cabinet,2,₹152.97,0%,₹305.94,₹191.89,₹114.05,Consumer,Feb
+ORD-1581,04-Feb-2025,East,Office Supplies,Folder Pack,5,₹5.34,10%,₹24.03,₹14.38,₹9.65,Small Business,Feb
+ORD-1087,05-Feb-2025,South,Furniture,Filing Cabinet,5,₹138.15,0%,₹690.75,₹399.64,₹291.11,Small Business,Feb
+ORD-1218,05-Feb-2025,North,Furniture,Bookshelf,4,₹108.78,20%,₹348.10,₹328.70,₹19.40,Small Business,Feb
+ORD-1588,06-Feb-2025,East,Office Supplies,Stapler,5,₹20.20,20%,₹80.80,₹67.92,₹12.88,Corporate,Feb
+ORD-1580,07-Feb-2025,North,Technology,Laptop,4,₹922.19,15%,"₹3,135.45","₹2,801.43",₹334.02,Corporate,Feb
+ORD-1258,07-Feb-2025,North,Office Supplies,Printer Paper,1,₹24.77,0%,₹24.77,₹19.05,₹5.72,Corporate,Feb
+ORD-1583,08-Feb-2025,East,Technology,Headphones,7,₹144.12,10%,₹907.96,₹687.53,₹220.43,Corporate,Feb
+ORD-1171,08-Feb-2025,East,Technology,Mouse,1,₹53.79,15%,₹45.72,₹35.60,₹10.12,Small Business,Feb
+ORD-1460,08-Feb-2025,South,Office Supplies,Pen Pack,4,₹14.45,20%,₹46.24,₹32.49,₹13.75,Consumer,Feb
+ORD-1516,08-Feb-2025,South,Technology,Laptop,1,"₹1,024.03",5%,₹972.83,₹799.23,₹173.60,Corporate,Feb
+ORD-1322,09-Feb-2025,East,Office Supplies,Pen Pack,7,₹13.94,10%,₹87.82,₹70.20,₹17.62,Small Business,Feb
+ORD-1310,09-Feb-2025,North,Technology,Mouse,6,₹49.15,0%,₹294.90,₹179.48,₹115.42,Small Business,Feb
+ORD-1480,09-Feb-2025,West,Furniture,Desk,5,₹350.69,10%,"₹1,578.11","₹1,262.64",₹315.47,Corporate,Feb
+ORD-1501,11-Feb-2025,South,Technology,Laptop,6,₹869.43,0%,"₹5,216.58","₹2,767.54","₹2,449.04",Consumer,Feb
+ORD-1120,11-Feb-2025,East,Office Supplies,Stapler,6,₹10.40,5%,₹59.28,₹47.04,₹12.24,Small Business,Feb
+ORD-1365,12-Feb-2025,West,Office Supplies,Printer Paper,3,₹4.96,10%,₹13.39,₹9.67,₹3.72,Corporate,Feb
+ORD-1538,12-Feb-2025,South,Furniture,Desk,3,₹273.88,20%,₹657.31,₹580.52,₹76.79,Consumer,Feb
+ORD-1497,13-Feb-2025,West,Technology,Headphones,8,₹63.42,0%,₹507.36,₹349.36,₹158.00,Small Business,Feb
+ORD-1198,13-Feb-2025,South,Technology,Monitor,4,₹320.69,5%,"₹1,218.62",₹806.07,₹412.55,Corporate,Feb
+ORD-1313,13-Feb-2025,South,Office Supplies,Printer Paper,1,₹7.03,10%,₹6.33,₹4.15,₹2.18,Small Business,Feb
+ORD-1386,14-Feb-2025,East,Office Supplies,Printer Paper,6,₹18.00,5%,₹102.60,₹66.58,₹36.02,Small Business,Feb
+ORD-1418,14-Feb-2025,South,Office Supplies,Pen Pack,1,₹12.13,0%,₹12.13,₹7.12,₹5.01,Corporate,Feb
+ORD-1436,15-Feb-2025,East,Office Supplies,Notebook,7,₹5.12,20%,₹28.67,₹29.01,-₹0.34,Small Business,Feb
+ORD-1221,16-Feb-2025,North,Technology,Headphones,1,₹112.40,10%,₹101.16,₹60.43,₹40.73,Corporate,Feb
+ORD-1157,16-Feb-2025,East,Furniture,Office Chair,7,₹130.40,10%,₹821.52,₹596.43,₹225.09,Small Business,Feb
+ORD-1018,16-Feb-2025,South,Furniture,Office Chair,8,₹315.20,10%,"₹2,269.44","₹1,582.56",₹686.88,Consumer,Feb
+ORD-1434,17-Feb-2025,South,Office Supplies,Folder Pack,3,₹3.01,10%,₹8.13,₹5.65,₹2.48,Consumer,Feb
+ORD-1074,17-Feb-2025,North,Office Supplies,Notebook,4,₹5.08,0%,₹20.32,₹13.92,₹6.40,Consumer,Feb
+ORD-1443,18-Feb-2025,South,Office Supplies,Printer Paper,3,₹8.10,0%,₹24.30,₹16.67,₹7.63,Corporate,Feb
+ORD-1414,18-Feb-2025,South,Office Supplies,Pen Pack,5,₹11.97,5%,₹56.86,₹35.51,₹21.35,Consumer,Feb
+ORD-1118,21-Feb-2025,South,Technology,Monitor,7,₹128.65,5%,₹855.52,₹723.63,₹131.89,Small Business,Feb
+ORD-1462,21-Feb-2025,East,Office Supplies,Stapler,5,₹17.09,5%,₹81.18,₹52.74,₹28.44,Small Business,Feb
+ORD-1100,21-Feb-2025,North,Technology,Keyboard,2,₹83.68,15%,₹142.26,₹127.33,₹14.93,Consumer,Feb
+ORD-1306,21-Feb-2025,East,Office Supplies,Stapler,4,₹18.63,10%,₹67.07,₹54.33,₹12.74,Small Business,Feb
+ORD-1241,21-Feb-2025,South,Technology,Keyboard,4,₹35.05,0%,₹140.20,₹102.50,₹37.70,Consumer,Feb
+ORD-1329,21-Feb-2025,South,Office Supplies,Notebook,4,₹10.18,10%,₹36.65,₹25.34,₹11.31,Corporate,Feb
+ORD-1528,22-Feb-2025,East,Office Supplies,Notebook,2,₹6.46,0%,₹12.92,₹8.22,₹4.70,Consumer,Feb
+ORD-1408,22-Feb-2025,East,Furniture,Office Chair,3,₹149.83,20%,₹359.59,₹328.95,₹30.64,Consumer,Feb
+ORD-1256,22-Feb-2025,West,Furniture,Filing Cabinet,1,₹75.46,0%,₹75.46,₹58.56,₹16.90,Consumer,Feb
+ORD-1522,23-Feb-2025,North,Technology,Monitor,6,₹254.42,20%,"₹1,221.22",₹846.20,₹375.02,Corporate,Feb
+ORD-1457,24-Feb-2025,South,Office Supplies,Printer Paper,3,₹14.27,0%,₹42.81,₹32.59,₹10.22,Consumer,Feb
+ORD-1182,25-Feb-2025,East,Office Supplies,Printer Paper,5,₹9.87,0%,₹49.35,₹34.76,₹14.59,Corporate,Feb
+ORD-1273,25-Feb-2025,North,Office Supplies,Notebook,8,₹9.26,0%,₹74.08,₹53.90,₹20.18,Small Business,Feb
+ORD-1357,25-Feb-2025,South,Office Supplies,Stapler,1,₹19.90,0%,₹19.90,₹11.81,₹8.09,Corporate,Feb
+ORD-1390,25-Feb-2025,West,Office Supplies,Notebook,1,₹3.48,15%,₹2.96,₹2.35,₹0.61,Small Business,Feb
+ORD-1533,26-Feb-2025,West,Technology,Monitor,1,₹399.35,15%,₹339.45,₹313.43,₹26.02,Consumer,Feb
+ORD-1536,26-Feb-2025,North,Furniture,Desk,5,₹228.37,10%,"₹1,027.66",₹705.95,₹321.71,Consumer,Feb
+ORD-1058,26-Feb-2025,East,Technology,Monitor,4,₹384.79,5%,"₹1,462.20","₹1,156.27",₹305.93,Corporate,Feb
+ORD-1178,28-Feb-2025,North,Technology,Monitor,5,₹356.80,5%,"₹1,694.80","₹1,378.71",₹316.09,Corporate,Feb
+ORD-1287,28-Feb-2025,North,Furniture,Filing Cabinet,7,₹95.49,10%,₹601.59,₹539.91,₹61.68,Consumer,Feb
+ORD-1083,28-Feb-2025,West,Technology,Keyboard,4,₹52.59,10%,₹189.32,₹144.23,₹45.09,Corporate,Feb
+ORD-1168,02-Mar-2025,South,Technology,Laptop,7,"₹1,177.65",15%,"₹7,007.02","₹6,687.28",₹319.74,Small Business,Mar
+ORD-1467,02-Mar-2025,West,Furniture,Filing Cabinet,4,₹180.22,0%,₹720.88,₹578.69,₹142.19,Corporate,Mar
+ORD-1532,02-Mar-2025,East,Furniture,Desk,4,₹277.47,15%,₹943.40,₹606.04,₹337.36,Small Business,Mar
+ORD-1041,02-Mar-2025,East,Office Supplies,Notebook,4,₹2.36,5%,₹8.97,₹7.72,₹1.25,Corporate,Mar
+ORD-1350,02-Mar-2025,South,Furniture,Office Chair,3,₹320.73,0%,₹962.19,₹718.01,₹244.18,Small Business,Mar
+ORD-1187,02-Mar-2025,North,Office Supplies,Pen Pack,1,₹12.02,10%,₹10.82,₹7.28,₹3.54,Small Business,Mar
+ORD-1262,04-Mar-2025,West,Office Supplies,Pen Pack,1,₹16.08,10%,₹14.47,₹9.01,₹5.46,Consumer,Mar
+ORD-1411,05-Mar-2025,South,Office Supplies,Pen Pack,8,₹9.91,10%,₹71.35,₹63.08,₹8.27,Small Business,Mar
+ORD-1259,05-Mar-2025,East,Furniture,Filing Cabinet,1,₹179.86,15%,₹152.88,₹129.42,₹23.46,Small Business,Mar
+ORD-1544,05-Mar-2025,West,Office Supplies,Notebook,4,₹9.56,5%,₹36.33,₹24.35,₹11.98,Consumer,Mar
+ORD-1230,06-Mar-2025,North,Technology,Monitor,5,₹146.33,15%,₹621.90,₹544.75,₹77.15,Corporate,Mar
+ORD-1251,07-Mar-2025,West,Technology,Monitor,8,₹178.51,0%,"₹1,428.08",₹988.36,₹439.72,Corporate,Mar
+ORD-1349,07-Mar-2025,West,Office Supplies,Printer Paper,4,₹18.18,15%,₹61.81,₹59.43,₹2.38,Consumer,Mar
+ORD-1392,07-Mar-2025,East,Office Supplies,Folder Pack,2,₹19.49,0%,₹38.98,₹27.19,₹11.79,Small Business,Mar
+ORD-1469,08-Mar-2025,South,Technology,Headphones,1,₹28.95,10%,₹26.05,₹15.68,₹10.37,Consumer,Mar
+ORD-1023,08-Mar-2025,North,Office Supplies,Folder Pack,4,₹6.65,10%,₹23.94,₹19.86,₹4.08,Corporate,Mar
+ORD-1564,08-Mar-2025,East,Technology,Keyboard,8,₹98.00,0%,₹784.00,₹578.14,₹205.86,Consumer,Mar
+ORD-1253,10-Mar-2025,West,Office Supplies,Stapler,4,₹22.24,15%,₹75.62,₹56.12,₹19.50,Corporate,Mar
+ORD-1072,11-Mar-2025,East,Office Supplies,Notebook,4,₹7.29,15%,₹24.79,₹21.82,₹2.97,Consumer,Mar
+ORD-1523,12-Mar-2025,South,Office Supplies,Pen Pack,7,₹15.96,10%,₹100.55,₹69.63,₹30.92,Consumer,Mar
+ORD-1543,13-Mar-2025,West,Office Supplies,Printer Paper,5,₹9.81,0%,₹49.05,₹37.51,₹11.54,Corporate,Mar
+ORD-1052,13-Mar-2025,East,Office Supplies,Printer Paper,2,₹16.86,0%,₹33.72,₹19.13,₹14.59,Small Business,Mar
+ORD-1398,13-Mar-2025,South,Technology,Laptop,8,₹570.25,10%,"₹4,105.80","₹3,454.62",₹651.18,Corporate,Mar
+ORD-1426,14-Mar-2025,North,Furniture,Table,5,₹224.42,10%,"₹1,009.89",₹637.18,₹372.71,Corporate,Mar
+ORD-1102,14-Mar-2025,East,Furniture,Filing Cabinet,5,₹121.68,15%,₹517.14,₹389.23,₹127.91,Corporate,Mar
+ORD-1224,15-Mar-2025,East,Office Supplies,Notebook,3,₹7.88,10%,₹21.28,₹15.43,₹5.85,Consumer,Mar
+ORD-1009,15-Mar-2025,West,Office Supplies,Printer Paper,2,₹12.88,0%,₹25.76,₹14.44,₹11.32,Corporate,Mar
+ORD-1339,15-Mar-2025,South,Office Supplies,Folder Pack,7,₹9.04,5%,₹60.12,₹36.09,₹24.03,Consumer,Mar
+ORD-1142,20-Mar-2025,West,Technology,Monitor,2,₹120.16,5%,₹228.30,₹180.43,₹47.87,Consumer,Mar
+ORD-1363,23-Mar-2025,West,Technology,Keyboard,6,₹37.76,5%,₹215.23,₹149.27,₹65.96,Consumer,Mar
+ORD-1078,24-Mar-2025,North,Furniture,Desk,8,₹270.65,0%,"₹2,165.20","₹1,210.93",₹954.27,Small Business,Mar
+ORD-1032,24-Mar-2025,South,Office Supplies,Pen Pack,1,₹15.16,5%,₹14.40,₹10.45,₹3.95,Consumer,Mar
+ORD-1567,25-Mar-2025,North,Office Supplies,Folder Pack,8,₹8.26,0%,₹66.08,₹36.04,₹30.04,Small Business,Mar
+ORD-1412,25-Mar-2025,West,Office Supplies,Pen Pack,2,₹4.46,10%,₹8.03,₹6.73,₹1.30,Small Business,Mar
+ORD-1326,26-Mar-2025,West,Technology,Monitor,5,₹257.65,15%,"₹1,095.01","₹1,015.85",₹79.16,Consumer,Mar
+ORD-1486,26-Mar-2025,West,Office Supplies,Folder Pack,6,₹6.45,10%,₹34.83,₹26.50,₹8.33,Corporate,Mar
+ORD-1148,27-Mar-2025,South,Furniture,Filing Cabinet,1,₹191.16,10%,₹172.04,₹148.72,₹23.32,Small Business,Mar
+ORD-1510,28-Mar-2025,North,Technology,Keyboard,8,₹88.48,10%,₹637.06,₹395.50,₹241.56,Consumer,Mar
+ORD-1327,28-Mar-2025,East,Technology,Mouse,1,₹44.49,5%,₹42.27,₹31.33,₹10.94,Corporate,Mar
+ORD-1566,28-Mar-2025,North,Office Supplies,Folder Pack,7,₹4.53,10%,₹28.54,₹18.87,₹9.67,Corporate,Mar
+ORD-1593,29-Mar-2025,North,Office Supplies,Pen Pack,8,₹7.86,10%,₹56.59,₹37.55,₹19.04,Consumer,Mar
+ORD-1189,29-Mar-2025,East,Office Supplies,Pen Pack,4,₹11.20,0%,₹44.80,₹27.82,₹16.98,Consumer,Mar
+ORD-1384,29-Mar-2025,East,Furniture,Table,5,₹268.73,10%,"₹1,209.29",₹935.78,₹273.51,Consumer,Mar
+ORD-1097,29-Mar-2025,East,Office Supplies,Printer Paper,6,₹18.50,20%,₹88.80,₹71.43,₹17.37,Corporate,Mar
+ORD-1315,31-Mar-2025,East,Office Supplies,Pen Pack,7,₹7.07,5%,₹47.02,₹28.67,₹18.35,Corporate,Mar
+ORD-1119,31-Mar-2025,North,Office Supplies,Folder Pack,1,₹15.74,0%,₹15.74,₹12.28,₹3.46,Consumer,Mar
+ORD-1508,01-Apr-2025,West,Furniture,Table,1,₹260.15,10%,₹234.13,₹193.79,₹40.34,Small Business,Apr
+ORD-1483,02-Apr-2025,West,Office Supplies,Pen Pack,4,₹16.39,0%,₹65.56,₹50.91,₹14.65,Consumer,Apr
+ORD-1568,02-Apr-2025,South,Furniture,Bookshelf,7,₹202.75,5%,"₹1,348.29",₹884.40,₹463.89,Corporate,Apr
+ORD-1346,04-Apr-2025,North,Technology,Headphones,1,₹161.72,10%,₹145.55,₹126.29,₹19.26,Consumer,Apr
+ORD-1380,06-Apr-2025,East,Technology,Mouse,3,₹13.46,15%,₹34.32,₹27.88,₹6.44,Small Business,Apr
+ORD-1211,06-Apr-2025,North,Technology,Laptop,8,₹520.76,20%,"₹3,332.86","₹3,128.84",₹204.02,Consumer,Apr
+ORD-1209,07-Apr-2025,South,Furniture,Filing Cabinet,3,₹248.01,10%,₹669.63,₹575.34,₹94.29,Corporate,Apr
+ORD-1206,08-Apr-2025,West,Technology,Monitor,3,₹226.01,5%,₹644.13,₹421.53,₹222.60,Consumer,Apr
+ORD-1292,08-Apr-2025,East,Office Supplies,Stapler,8,₹15.49,0%,₹123.92,₹68.04,₹55.88,Corporate,Apr
+ORD-1509,09-Apr-2025,West,Office Supplies,Pen Pack,6,₹14.19,0%,₹85.14,₹57.00,₹28.14,Consumer,Apr
+ORD-1216,10-Apr-2025,West,Office Supplies,Printer Paper,7,₹14.55,5%,₹96.76,₹60.83,₹35.93,Consumer,Apr
+ORD-1143,11-Apr-2025,East,Office Supplies,Printer Paper,6,₹4.68,10%,₹25.27,₹15.90,₹9.37,Consumer,Apr
+ORD-1505,11-Apr-2025,South,Technology,Keyboard,3,₹97.34,5%,₹277.42,₹191.02,₹86.40,Small Business,Apr
+ORD-1281,11-Apr-2025,North,Furniture,Filing Cabinet,7,₹226.18,0%,"₹1,583.26","₹1,104.61",₹478.65,Consumer,Apr
+ORD-1039,12-Apr-2025,West,Office Supplies,Printer Paper,8,₹12.50,15%,₹85.00,₹81.23,₹3.77,Consumer,Apr
+ORD-1413,12-Apr-2025,North,Furniture,Table,5,₹238.57,10%,"₹1,073.57",₹674.56,₹399.01,Small Business,Apr
+ORD-1111,12-Apr-2025,East,Office Supplies,Pen Pack,5,₹5.83,10%,₹26.23,₹23.56,₹2.67,Consumer,Apr
+ORD-1399,13-Apr-2025,West,Office Supplies,Folder Pack,7,₹8.26,5%,₹54.93,₹39.83,₹15.10,Consumer,Apr
+ORD-1314,13-Apr-2025,West,Office Supplies,Stapler,1,₹27.17,15%,₹23.09,₹18.15,₹4.94,Corporate,Apr
+ORD-1152,13-Apr-2025,North,Furniture,Bookshelf,2,₹180.97,5%,₹343.84,₹269.56,₹74.28,Corporate,Apr
+ORD-1573,14-Apr-2025,South,Technology,Keyboard,7,₹59.30,10%,₹373.59,₹225.60,₹147.99,Small Business,Apr
+ORD-1534,14-Apr-2025,West,Office Supplies,Folder Pack,2,₹7.88,0%,₹15.76,₹10.56,₹5.20,Corporate,Apr
+ORD-1299,14-Apr-2025,North,Technology,Laptop,4,₹704.79,0%,"₹2,819.16","₹1,912.13",₹907.03,Small Business,Apr
+ORD-1450,15-Apr-2025,North,Technology,Monitor,5,₹332.78,10%,"₹1,497.51",₹934.62,₹562.89,Small Business,Apr
+ORD-1495,16-Apr-2025,South,Office Supplies,Notebook,4,₹3.54,5%,₹13.45,₹7.73,₹5.72,Small Business,Apr
+ORD-1096,16-Apr-2025,South,Furniture,Office Chair,2,₹196.61,5%,₹373.56,₹306.14,₹67.42,Consumer,Apr
+ORD-1481,16-Apr-2025,West,Technology,Headphones,3,₹78.66,10%,₹212.38,₹164.93,₹47.45,Consumer,Apr
+ORD-1342,17-Apr-2025,South,Office Supplies,Pen Pack,5,₹5.72,5%,₹27.17,₹20.94,₹6.23,Corporate,Apr
+ORD-1154,18-Apr-2025,West,Furniture,Filing Cabinet,8,₹122.41,10%,₹881.35,₹671.98,₹209.37,Corporate,Apr
+ORD-1271,18-Apr-2025,South,Office Supplies,Pen Pack,1,₹6.55,5%,₹6.22,₹3.54,₹2.68,Small Business,Apr
+ORD-1419,19-Apr-2025,North,Technology,Monitor,1,₹304.61,10%,₹274.15,₹227.94,₹46.21,Corporate,Apr
+ORD-1442,20-Apr-2025,West,Office Supplies,Notebook,8,₹9.27,15%,₹63.04,₹41.75,₹21.29,Consumer,Apr
+ORD-1263,20-Apr-2025,North,Office Supplies,Printer Paper,6,₹21.80,0%,₹130.80,₹73.93,₹56.87,Corporate,Apr
+ORD-1353,20-Apr-2025,East,Technology,Monitor,2,₹313.73,10%,₹564.71,₹427.77,₹136.94,Corporate,Apr
+ORD-1190,21-Apr-2025,North,Office Supplies,Folder Pack,2,₹10.69,15%,₹18.17,₹13.20,₹4.97,Consumer,Apr
+ORD-1307,21-Apr-2025,South,Furniture,Filing Cabinet,7,₹98.13,15%,₹583.87,₹362.55,₹221.32,Consumer,Apr
+ORD-1136,21-Apr-2025,East,Office Supplies,Printer Paper,1,₹5.82,0%,₹5.82,₹3.80,₹2.02,Corporate,Apr
+ORD-1226,22-Apr-2025,North,Technology,Headphones,3,₹167.97,0%,₹503.91,₹279.27,₹224.64,Corporate,Apr
+ORD-1239,23-Apr-2025,North,Furniture,Filing Cabinet,5,₹243.55,15%,"₹1,035.09",₹950.72,₹84.37,Consumer,Apr
+ORD-1333,24-Apr-2025,South,Furniture,Bookshelf,7,₹91.51,15%,₹544.48,₹339.27,₹205.21,Small Business,Apr
+ORD-1526,24-Apr-2025,West,Office Supplies,Folder Pack,8,₹19.55,15%,₹132.94,₹121.71,₹11.23,Consumer,Apr
+ORD-1400,24-Apr-2025,East,Technology,Keyboard,7,₹36.81,20%,₹206.14,₹141.57,₹64.57,Corporate,Apr
+ORD-1447,25-Apr-2025,North,Technology,Monitor,1,₹150.66,0%,₹150.66,₹94.24,₹56.42,Consumer,Apr
+ORD-1088,25-Apr-2025,East,Office Supplies,Notebook,6,₹6.03,15%,₹30.75,₹26.21,₹4.54,Small Business,Apr
+ORD-1338,26-Apr-2025,North,Technology,Keyboard,5,₹20.97,10%,₹94.36,₹70.64,₹23.72,Small Business,Apr
+ORD-1309,26-Apr-2025,South,Technology,Headphones,3,₹50.73,5%,₹144.58,₹97.51,₹47.07,Small Business,Apr
+ORD-1368,26-Apr-2025,South,Technology,Keyboard,3,₹45.67,10%,₹123.31,₹109.86,₹13.45,Small Business,Apr
+ORD-1403,27-Apr-2025,East,Technology,Mouse,7,₹27.58,15%,₹164.10,₹144.53,₹19.57,Corporate,Apr
+ORD-1554,27-Apr-2025,West,Technology,Mouse,3,₹12.33,10%,₹33.29,₹20.26,₹13.03,Corporate,Apr
+ORD-1525,27-Apr-2025,West,Furniture,Bookshelf,5,₹157.72,10%,₹709.74,₹529.29,₹180.45,Consumer,Apr
+ORD-1321,28-Apr-2025,West,Technology,Mouse,6,₹55.60,10%,₹300.24,₹259.83,₹40.41,Consumer,Apr
+ORD-1167,28-Apr-2025,East,Technology,Mouse,8,₹11.07,15%,₹75.28,₹71.34,₹3.94,Corporate,Apr
+ORD-1595,28-Apr-2025,East,Office Supplies,Folder Pack,1,₹19.98,5%,₹18.98,₹10.40,₹8.58,Consumer,Apr
+ORD-1066,29-Apr-2025,East,Office Supplies,Stapler,6,₹15.70,10%,₹84.78,₹73.18,₹11.60,Small Business,Apr
+ORD-1254,01-May-2025,North,Office Supplies,Printer Paper,6,₹7.58,0%,₹45.48,₹33.58,₹11.90,Consumer,May
+ORD-1077,01-May-2025,East,Office Supplies,Pen Pack,3,₹5.65,5%,₹16.10,₹10.81,₹5.29,Small Business,May
+ORD-1487,02-May-2025,West,Office Supplies,Folder Pack,8,₹10.47,0%,₹83.76,₹47.03,₹36.73,Corporate,May
+ORD-1294,02-May-2025,West,Technology,Keyboard,8,₹33.06,10%,₹238.03,₹166.74,₹71.29,Consumer,May
+ORD-1371,03-May-2025,South,Technology,Headphones,1,₹88.62,10%,₹79.76,₹70.83,₹8.93,Consumer,May
+ORD-1169,03-May-2025,North,Technology,Laptop,5,₹508.62,15%,"₹2,161.63","₹1,790.72",₹370.91,Small Business,May
+ORD-1199,04-May-2025,South,Office Supplies,Notebook,7,₹7.72,0%,₹54.04,₹42.69,₹11.35,Corporate,May
+ORD-1197,06-May-2025,West,Technology,Mouse,6,₹20.88,10%,₹112.75,₹75.05,₹37.70,Corporate,May
+ORD-1139,07-May-2025,East,Furniture,Filing Cabinet,4,₹191.59,10%,₹689.72,₹568.07,₹121.65,Consumer,May
+ORD-1268,07-May-2025,West,Office Supplies,Stapler,6,₹27.31,15%,₹139.28,₹97.36,₹41.92,Small Business,May
+ORD-1044,10-May-2025,South,Technology,Laptop,1,₹566.82,5%,₹538.48,₹450.47,₹88.01,Small Business,May
+ORD-1521,11-May-2025,North,Office Supplies,Pen Pack,8,₹11.16,15%,₹75.89,₹52.46,₹23.43,Consumer,May
+ORD-1301,13-May-2025,North,Furniture,Bookshelf,5,₹154.86,10%,₹696.87,₹623.31,₹73.56,Consumer,May
+ORD-1194,13-May-2025,West,Technology,Monitor,8,₹360.67,5%,"₹2,741.09","₹1,742.31",₹998.78,Corporate,May
+ORD-1053,13-May-2025,North,Office Supplies,Folder Pack,2,₹19.59,0%,₹39.18,₹26.44,₹12.74,Corporate,May
+ORD-1201,14-May-2025,North,Office Supplies,Stapler,6,₹8.27,15%,₹42.18,₹39.75,₹2.43,Consumer,May
+ORD-1063,14-May-2025,North,Technology,Keyboard,4,₹53.74,0%,₹214.96,₹150.02,₹64.94,Consumer,May
+ORD-1393,15-May-2025,North,Office Supplies,Notebook,3,₹7.43,0%,₹22.29,₹13.49,₹8.80,Consumer,May
+ORD-1332,16-May-2025,East,Furniture,Bookshelf,2,₹132.45,15%,₹225.16,₹216.18,₹8.98,Small Business,May
+ORD-1068,16-May-2025,West,Office Supplies,Folder Pack,6,₹10.23,15%,₹52.17,₹41.23,₹10.94,Corporate,May
+ORD-1022,16-May-2025,South,Furniture,Desk,1,₹165.43,0%,₹165.43,₹121.91,₹43.52,Corporate,May
+ORD-1374,17-May-2025,South,Office Supplies,Printer Paper,5,₹7.40,0%,₹37.00,₹25.34,₹11.66,Consumer,May
+ORD-1576,17-May-2025,South,Office Supplies,Notebook,8,₹8.98,0%,₹71.84,₹44.36,₹27.48,Corporate,May
+ORD-1498,17-May-2025,West,Office Supplies,Pen Pack,4,₹3.11,10%,₹11.20,₹7.45,₹3.75,Consumer,May
+ORD-1379,19-May-2025,South,Furniture,Bookshelf,8,₹88.35,20%,₹565.44,₹447.93,₹117.51,Small Business,May
+ORD-1188,20-May-2025,East,Furniture,Table,5,₹377.33,20%,"₹1,509.32","₹1,005.03",₹504.29,Corporate,May
+ORD-1094,22-May-2025,West,Furniture,Filing Cabinet,8,₹117.84,5%,₹895.58,₹719.28,₹176.30,Consumer,May
+ORD-1552,24-May-2025,East,Office Supplies,Notebook,1,₹3.71,5%,₹3.52,₹2.47,₹1.05,Small Business,May
+ORD-1440,26-May-2025,West,Technology,Laptop,2,₹723.51,0%,"₹1,447.02",₹972.64,₹474.38,Small Business,May
+ORD-1027,27-May-2025,South,Office Supplies,Notebook,1,₹9.43,15%,₹8.02,₹6.31,₹1.71,Consumer,May
+ORD-1585,28-May-2025,South,Technology,Headphones,8,₹121.78,5%,₹925.53,₹688.08,₹237.45,Small Business,May
+ORD-1164,29-May-2025,West,Technology,Headphones,2,₹40.93,5%,₹77.77,₹57.39,₹20.38,Small Business,May
+ORD-1163,30-May-2025,West,Technology,Monitor,4,₹300.32,10%,"₹1,081.15",₹904.56,₹176.59,Corporate,May
+ORD-1144,30-May-2025,South,Technology,Headphones,8,₹122.13,0%,₹977.04,₹696.11,₹280.93,Consumer,May
+ORD-1065,30-May-2025,East,Furniture,Bookshelf,8,₹150.36,0%,"₹1,202.88",₹922.20,₹280.68,Small Business,May
+ORD-1373,30-May-2025,South,Technology,Headphones,1,₹58.60,0%,₹58.60,₹37.53,₹21.07,Consumer,May
+ORD-1496,31-May-2025,North,Furniture,Filing Cabinet,6,₹258.97,10%,"₹1,398.44","₹1,067.91",₹330.53,Small Business,May
+ORD-1572,01-Jun-2025,East,Office Supplies,Stapler,6,₹29.03,10%,₹156.76,₹133.31,₹23.45,Small Business,Jun
+ORD-1248,01-Jun-2025,North,Office Supplies,Notebook,4,₹3.81,5%,₹14.48,₹9.24,₹5.24,Corporate,Jun
+ORD-1425,02-Jun-2025,West,Office Supplies,Printer Paper,2,₹23.69,0%,₹47.38,₹28.26,₹19.12,Corporate,Jun
+ORD-1165,02-Jun-2025,South,Office Supplies,Stapler,2,₹6.06,0%,₹12.12,₹7.96,₹4.16,Consumer,Jun
+ORD-1464,02-Jun-2025,East,Office Supplies,Notebook,2,₹8.39,10%,₹15.10,₹10.85,₹4.25,Consumer,Jun
+ORD-1275,02-Jun-2025,East,Office Supplies,Printer Paper,3,₹18.64,20%,₹44.74,₹38.93,₹5.81,Consumer,Jun
+ORD-1500,05-Jun-2025,South,Technology,Monitor,1,₹331.83,0%,₹331.83,₹254.35,₹77.48,Small Business,Jun
+ORD-1547,06-Jun-2025,East,Office Supplies,Folder Pack,4,₹17.95,0%,₹71.80,₹41.92,₹29.88,Small Business,Jun
+ORD-1473,07-Jun-2025,West,Furniture,Bookshelf,5,₹220.91,5%,"₹1,049.32",₹855.62,₹193.70,Small Business,Jun
+ORD-1238,07-Jun-2025,North,Office Supplies,Stapler,1,₹23.09,15%,₹19.63,₹16.36,₹3.27,Corporate,Jun
+ORD-1091,08-Jun-2025,West,Technology,Headphones,3,₹174.50,0%,₹523.50,₹339.74,₹183.76,Small Business,Jun
+ORD-1005,08-Jun-2025,West,Office Supplies,Stapler,6,₹6.65,0%,₹39.90,₹23.29,₹16.61,Corporate,Jun
+ORD-1407,08-Jun-2025,West,Office Supplies,Folder Pack,7,₹13.24,5%,₹88.05,₹70.16,₹17.89,Corporate,Jun
+ORD-1435,08-Jun-2025,North,Furniture,Filing Cabinet,1,₹112.81,0%,₹112.81,₹61.04,₹51.77,Small Business,Jun
+ORD-1155,08-Jun-2025,East,Office Supplies,Notebook,1,₹5.16,0%,₹5.16,₹3.70,₹1.46,Small Business,Jun
+ORD-1354,08-Jun-2025,South,Technology,Headphones,4,₹154.56,0%,₹618.24,₹458.70,₹159.54,Corporate,Jun
+ORD-1082,09-Jun-2025,North,Technology,Mouse,3,₹14.87,0%,₹44.61,₹29.58,₹15.03,Corporate,Jun
+ORD-1140,09-Jun-2025,West,Furniture,Office Chair,4,₹215.21,15%,₹731.71,₹575.09,₹156.62,Corporate,Jun
+ORD-1121,10-Jun-2025,North,Furniture,Table,2,₹153.84,0%,₹307.68,₹248.47,₹59.21,Corporate,Jun
+ORD-1298,10-Jun-2025,North,Technology,Mouse,2,₹10.74,5%,₹20.41,₹14.44,₹5.97,Corporate,Jun
+ORD-1004,10-Jun-2025,North,Office Supplies,Pen Pack,7,₹10.83,0%,₹75.81,₹52.25,₹23.56,Consumer,Jun
+ORD-1030,11-Jun-2025,South,Office Supplies,Stapler,2,₹18.41,20%,₹29.46,₹29.79,-₹0.33,Corporate,Jun
+ORD-1285,11-Jun-2025,West,Technology,Laptop,3,"₹1,158.11",5%,"₹3,300.61","₹2,051.43","₹1,249.18",Small Business,Jun
+ORD-1047,12-Jun-2025,South,Technology,Laptop,1,"₹1,100.48",10%,₹990.43,₹846.28,₹144.15,Consumer,Jun
+ORD-1186,12-Jun-2025,East,Furniture,Desk,7,₹168.14,10%,"₹1,059.28",₹944.79,₹114.49,Corporate,Jun
+ORD-1219,13-Jun-2025,East,Office Supplies,Printer Paper,8,₹21.60,0%,₹172.80,₹117.15,₹55.65,Corporate,Jun
+ORD-1267,13-Jun-2025,West,Office Supplies,Pen Pack,2,₹4.86,10%,₹8.75,₹6.79,₹1.96,Consumer,Jun
+ORD-1020,14-Jun-2025,North,Technology,Headphones,6,₹76.04,5%,₹433.43,₹314.98,₹118.45,Corporate,Jun
+ORD-1214,14-Jun-2025,South,Office Supplies,Printer Paper,7,₹13.41,0%,₹93.87,₹59.87,₹34.00,Consumer,Jun
+ORD-1031,14-Jun-2025,East,Office Supplies,Stapler,7,₹9.69,10%,₹61.05,₹53.14,₹7.91,Corporate,Jun
+ORD-1506,15-Jun-2025,North,Office Supplies,Printer Paper,4,₹15.61,5%,₹59.32,₹47.95,₹11.37,Corporate,Jun
+ORD-1537,16-Jun-2025,East,Furniture,Bookshelf,5,₹229.15,10%,"₹1,031.17",₹834.52,₹196.65,Corporate,Jun
+ORD-1222,16-Jun-2025,East,Office Supplies,Printer Paper,2,₹5.42,5%,₹10.30,₹6.48,₹3.82,Small Business,Jun
+ORD-1205,16-Jun-2025,East,Technology,Headphones,1,₹62.24,0%,₹62.24,₹32.98,₹29.26,Corporate,Jun
+ORD-1114,17-Jun-2025,West,Office Supplies,Folder Pack,1,₹16.39,5%,₹15.57,₹13.34,₹2.23,Consumer,Jun
+ORD-1335,17-Jun-2025,South,Office Supplies,Stapler,7,₹22.74,5%,₹151.22,₹125.39,₹25.83,Consumer,Jun
+ORD-1176,18-Jun-2025,West,Office Supplies,Stapler,6,₹8.76,0%,₹52.56,₹37.96,₹14.60,Small Business,Jun
+ORD-1485,18-Jun-2025,North,Office Supplies,Printer Paper,4,₹24.04,0%,₹96.16,₹74.99,₹21.17,Corporate,Jun
+ORD-1073,18-Jun-2025,East,Office Supplies,Notebook,6,₹3.75,5%,₹21.38,₹14.93,₹6.45,Small Business,Jun
+ORD-1231,19-Jun-2025,North,Office Supplies,Printer Paper,8,₹6.87,0%,₹54.96,₹34.65,₹20.31,Small Business,Jun
+ORD-1054,20-Jun-2025,West,Technology,Headphones,7,₹61.64,0%,₹431.48,₹244.25,₹187.23,Small Business,Jun
+ORD-1277,20-Jun-2025,East,Furniture,Office Chair,2,₹230.25,5%,₹437.47,₹318.42,₹119.05,Consumer,Jun
+ORD-1474,20-Jun-2025,East,Office Supplies,Printer Paper,5,₹23.83,0%,₹119.15,₹62.89,₹56.26,Consumer,Jun
+ORD-1124,21-Jun-2025,North,Office Supplies,Folder Pack,1,₹12.84,0%,₹12.84,₹10.42,₹2.42,Corporate,Jun
+ORD-1367,21-Jun-2025,East,Office Supplies,Printer Paper,1,₹20.12,5%,₹19.11,₹12.76,₹6.35,Consumer,Jun
+ORD-1070,21-Jun-2025,North,Furniture,Office Chair,4,₹252.97,10%,₹910.69,₹797.77,₹112.92,Consumer,Jun
+ORD-1290,22-Jun-2025,South,Office Supplies,Notebook,6,₹11.50,15%,₹58.65,₹41.62,₹17.03,Small Business,Jun
+ORD-1109,22-Jun-2025,South,Furniture,Desk,5,₹362.53,10%,"₹1,631.38","₹1,157.43",₹473.95,Small Business,Jun
+ORD-1519,23-Jun-2025,East,Technology,Headphones,1,₹98.39,0%,₹98.39,₹71.98,₹26.41,Consumer,Jun
+ORD-1076,23-Jun-2025,East,Furniture,Table,1,₹223.44,15%,₹189.92,₹132.33,₹57.59,Small Business,Jun
+ORD-1276,26-Jun-2025,East,Office Supplies,Stapler,4,₹23.90,20%,₹76.48,₹54.31,₹22.17,Corporate,Jun
+ORD-1282,27-Jun-2025,West,Office Supplies,Pen Pack,1,₹15.41,10%,₹13.87,₹10.75,₹3.12,Small Business,Jun
+ORD-1444,28-Jun-2025,South,Office Supplies,Stapler,2,₹14.70,10%,₹26.46,₹16.12,₹10.34,Corporate,Jun
+ORD-1235,29-Jun-2025,West,Office Supplies,Pen Pack,5,₹17.49,5%,₹83.08,₹69.34,₹13.74,Small Business,Jun
+ORD-1563,29-Jun-2025,West,Office Supplies,Notebook,7,₹11.36,15%,₹67.59,₹55.03,₹12.56,Corporate,Jun
+ORD-1284,29-Jun-2025,North,Furniture,Bookshelf,3,₹69.57,0%,₹208.71,₹120.62,₹88.09,Corporate,Jun
+ORD-1252,30-Jun-2025,West,Technology,Keyboard,7,₹50.14,15%,₹298.33,₹197.10,₹101.23,Corporate,Jun
+ORD-1185,30-Jun-2025,South,Office Supplies,Folder Pack,5,₹13.09,0%,₹65.45,₹44.15,₹21.30,Small Business,Jun
+ORD-1203,30-Jun-2025,East,Office Supplies,Printer Paper,2,₹14.90,5%,₹28.31,₹17.09,₹11.22,Corporate,Jun
+ORD-1183,01-Jul-2025,North,Furniture,Desk,3,₹432.64,0%,"₹1,297.92",₹680.28,₹617.64,Corporate,Jul
+ORD-1055,01-Jul-2025,East,Office Supplies,Folder Pack,1,₹6.32,10%,₹5.69,₹5.02,₹0.67,Consumer,Jul
+ORD-1406,02-Jul-2025,West,Furniture,Bookshelf,1,₹119.69,0%,₹119.69,₹71.82,₹47.87,Corporate,Jul
+ORD-1180,02-Jul-2025,West,Office Supplies,Folder Pack,6,₹5.41,0%,₹32.46,₹23.57,₹8.89,Corporate,Jul
+ORD-1453,02-Jul-2025,East,Technology,Keyboard,2,₹30.60,20%,₹48.96,₹37.05,₹11.91,Consumer,Jul
+ORD-1405,02-Jul-2025,North,Office Supplies,Printer Paper,3,₹8.93,5%,₹25.45,₹19.90,₹5.55,Corporate,Jul
+ORD-1021,02-Jul-2025,South,Office Supplies,Pen Pack,4,₹12.88,10%,₹46.37,₹31.75,₹14.62,Small Business,Jul
+ORD-1556,04-Jul-2025,East,Technology,Laptop,4,₹772.52,15%,"₹2,626.57","₹1,833.09",₹793.48,Consumer,Jul
+ORD-1420,04-Jul-2025,North,Furniture,Desk,8,₹337.73,5%,"₹2,566.75","₹2,149.92",₹416.83,Consumer,Jul
+ORD-1115,04-Jul-2025,West,Office Supplies,Printer Paper,8,₹10.33,10%,₹74.38,₹51.32,₹23.06,Consumer,Jul
+ORD-1159,04-Jul-2025,North,Technology,Keyboard,2,₹92.31,5%,₹175.39,₹104.31,₹71.08,Small Business,Jul
+ORD-1445,05-Jul-2025,East,Technology,Keyboard,2,₹94.54,10%,₹170.17,₹150.66,₹19.51,Small Business,Jul
+ORD-1344,07-Jul-2025,South,Furniture,Table,7,₹330.48,0%,"₹2,313.36","₹1,332.49",₹980.87,Corporate,Jul
+ORD-1017,07-Jul-2025,North,Office Supplies,Folder Pack,4,₹12.94,0%,₹51.76,₹31.90,₹19.86,Consumer,Jul
+ORD-1549,08-Jul-2025,East,Furniture,Desk,2,₹181.72,5%,₹345.27,₹251.77,₹93.50,Small Business,Jul
+ORD-1366,09-Jul-2025,East,Furniture,Bookshelf,7,₹99.79,10%,₹628.68,₹411.97,₹216.71,Consumer,Jul
+ORD-1296,10-Jul-2025,East,Office Supplies,Folder Pack,8,₹13.73,10%,₹98.86,₹78.18,₹20.68,Small Business,Jul
+ORD-1449,10-Jul-2025,East,Office Supplies,Pen Pack,3,₹3.19,0%,₹9.57,₹5.93,₹3.64,Small Business,Jul
+ORD-1578,11-Jul-2025,North,Furniture,Table,4,₹212.89,0%,₹851.56,₹446.79,₹404.77,Small Business,Jul
+ORD-1011,12-Jul-2025,West,Office Supplies,Pen Pack,3,₹12.16,0%,₹36.48,₹28.69,₹7.79,Consumer,Jul
+ORD-1488,13-Jul-2025,West,Office Supplies,Stapler,2,₹5.71,10%,₹10.28,₹9.11,₹1.17,Small Business,Jul
+ORD-1507,13-Jul-2025,North,Technology,Keyboard,8,₹94.57,10%,₹680.90,₹493.76,₹187.14,Corporate,Jul
+ORD-1351,14-Jul-2025,North,Furniture,Table,3,₹287.55,5%,₹819.52,₹515.80,₹303.72,Corporate,Jul
+ORD-1561,15-Jul-2025,East,Technology,Laptop,6,₹836.20,15%,"₹4,264.62","₹3,258.21","₹1,006.41",Small Business,Jul
+ORD-1289,17-Jul-2025,North,Technology,Headphones,5,₹57.82,15%,₹245.74,₹193.58,₹52.16,Consumer,Jul
+ORD-1539,17-Jul-2025,East,Technology,Monitor,3,₹246.26,15%,₹627.96,₹532.32,₹95.64,Corporate,Jul
+ORD-1305,18-Jul-2025,South,Office Supplies,Printer Paper,6,₹24.91,0%,₹149.46,₹102.72,₹46.74,Corporate,Jul
+ORD-1295,18-Jul-2025,East,Office Supplies,Stapler,6,₹27.81,0%,₹166.86,₹132.49,₹34.37,Consumer,Jul
+ORD-1029,19-Jul-2025,East,Office Supplies,Folder Pack,3,₹12.61,0%,₹37.83,₹21.49,₹16.34,Corporate,Jul
+ORD-1331,19-Jul-2025,East,Technology,Mouse,6,₹24.33,10%,₹131.38,₹87.08,₹44.30,Corporate,Jul
+ORD-1229,19-Jul-2025,West,Office Supplies,Printer Paper,6,₹5.41,0%,₹32.46,₹23.25,₹9.21,Consumer,Jul
+ORD-1057,19-Jul-2025,West,Office Supplies,Stapler,7,₹28.72,0%,₹201.04,₹110.00,₹91.04,Corporate,Jul
+ORD-1132,22-Jul-2025,South,Technology,Laptop,8,₹680.75,0%,"₹5,446.00","₹3,957.45","₹1,488.55",Small Business,Jul
+ORD-1034,22-Jul-2025,South,Furniture,Bookshelf,2,₹211.00,15%,₹358.70,₹255.44,₹103.26,Consumer,Jul
+ORD-1113,22-Jul-2025,East,Office Supplies,Stapler,4,₹29.67,0%,₹118.68,₹76.40,₹42.28,Corporate,Jul
+ORD-1308,22-Jul-2025,North,Technology,Headphones,3,₹55.17,0%,₹165.51,₹108.17,₹57.34,Consumer,Jul
+ORD-1456,22-Jul-2025,West,Office Supplies,Folder Pack,5,₹11.03,20%,₹44.12,₹37.83,₹6.29,Small Business,Jul
+ORD-1330,22-Jul-2025,East,Office Supplies,Folder Pack,5,₹5.61,10%,₹25.25,₹16.99,₹8.26,Small Business,Jul
+ORD-1158,23-Jul-2025,South,Office Supplies,Printer Paper,4,₹20.86,15%,₹70.92,₹43.66,₹27.26,Consumer,Jul
+ORD-1134,24-Jul-2025,West,Furniture,Bookshelf,3,₹175.96,10%,₹475.09,₹295.89,₹179.20,Corporate,Jul
+ORD-1079,26-Jul-2025,East,Technology,Laptop,4,₹677.22,5%,"₹2,573.44","₹1,600.40",₹973.04,Corporate,Jul
+ORD-1131,26-Jul-2025,East,Furniture,Table,7,₹185.66,10%,"₹1,169.66","₹1,009.70",₹159.96,Small Business,Jul
+ORD-1126,26-Jul-2025,North,Technology,Monitor,2,₹153.63,0%,₹307.26,₹251.02,₹56.24,Consumer,Jul
+ORD-1116,27-Jul-2025,West,Technology,Mouse,3,₹59.78,0%,₹179.34,₹105.10,₹74.24,Corporate,Jul
+ORD-1437,27-Jul-2025,West,Furniture,Filing Cabinet,2,₹234.43,10%,₹421.97,₹340.95,₹81.02,Consumer,Jul
+ORD-1288,28-Jul-2025,North,Technology,Keyboard,2,₹93.86,15%,₹159.56,₹127.02,₹32.54,Consumer,Jul
+ORD-1570,28-Jul-2025,West,Technology,Headphones,4,₹38.70,0%,₹154.80,₹83.21,₹71.59,Consumer,Jul
+ORD-1129,29-Jul-2025,South,Furniture,Filing Cabinet,6,₹172.90,0%,"₹1,037.40",₹684.99,₹352.41,Consumer,Jul
+ORD-1535,30-Jul-2025,East,Office Supplies,Folder Pack,2,₹18.90,0%,₹37.80,₹21.28,₹16.52,Consumer,Jul
+ORD-1228,31-Jul-2025,West,Technology,Keyboard,6,₹35.20,15%,₹179.52,₹125.87,₹53.65,Corporate,Jul
+ORD-1597,31-Jul-2025,East,Technology,Keyboard,6,₹57.09,20%,₹274.03,₹182.16,₹91.87,Corporate,Jul
+ORD-1266,01-Aug-2025,East,Office Supplies,Pen Pack,5,₹11.93,20%,₹47.72,₹35.63,₹12.09,Consumer,Aug
+ORD-1424,01-Aug-2025,West,Furniture,Table,3,₹296.33,0%,₹888.99,₹634.67,₹254.32,Corporate,Aug
+ORD-1242,02-Aug-2025,East,Office Supplies,Pen Pack,6,₹16.32,10%,₹88.13,₹56.79,₹31.34,Consumer,Aug
+ORD-1260,03-Aug-2025,West,Furniture,Table,7,₹213.94,5%,"₹1,422.70","₹1,013.01",₹409.69,Consumer,Aug
+ORD-1270,04-Aug-2025,North,Technology,Mouse,8,₹35.01,5%,₹266.08,₹186.57,₹79.51,Small Business,Aug
+ORD-1548,04-Aug-2025,West,Office Supplies,Folder Pack,4,₹14.55,0%,₹58.20,₹37.59,₹20.61,Small Business,Aug
+ORD-1520,05-Aug-2025,South,Office Supplies,Stapler,5,₹19.80,0%,₹99.00,₹60.50,₹38.50,Consumer,Aug
+ORD-1455,06-Aug-2025,North,Technology,Mouse,3,₹16.89,10%,₹45.60,₹31.60,₹14.00,Consumer,Aug
+ORD-1468,06-Aug-2025,East,Office Supplies,Pen Pack,4,₹17.99,10%,₹64.76,₹38.44,₹26.32,Consumer,Aug
+ORD-1394,07-Aug-2025,South,Technology,Keyboard,8,₹57.53,10%,₹414.22,₹257.02,₹157.20,Consumer,Aug
+ORD-1531,07-Aug-2025,South,Office Supplies,Folder Pack,7,₹9.64,5%,₹64.11,₹50.87,₹13.24,Corporate,Aug
+ORD-1137,09-Aug-2025,East,Technology,Headphones,6,₹61.74,15%,₹314.87,₹253.28,₹61.59,Consumer,Aug
+ORD-1494,09-Aug-2025,South,Technology,Laptop,1,"₹1,095.58",0%,"₹1,095.58",₹786.30,₹309.28,Small Business,Aug
+ORD-1193,10-Aug-2025,East,Furniture,Bookshelf,4,₹236.72,5%,₹899.54,₹768.24,₹131.30,Small Business,Aug
+ORD-1490,10-Aug-2025,North,Furniture,Office Chair,5,₹226.09,15%,₹960.88,₹885.59,₹75.29,Small Business,Aug
+ORD-1269,12-Aug-2025,South,Technology,Keyboard,5,₹43.79,0%,₹218.95,₹175.07,₹43.88,Corporate,Aug
+ORD-1323,13-Aug-2025,South,Office Supplies,Notebook,7,₹11.93,5%,₹79.33,₹63.82,₹15.51,Corporate,Aug
+ORD-1343,15-Aug-2025,West,Technology,Laptop,5,₹519.83,15%,"₹2,209.28","₹1,488.00",₹721.28,Consumer,Aug
+ORD-1240,17-Aug-2025,West,Furniture,Office Chair,1,₹146.23,15%,₹124.30,₹104.48,₹19.82,Corporate,Aug
+ORD-1245,18-Aug-2025,North,Technology,Headphones,1,₹138.07,15%,₹117.36,₹103.13,₹14.23,Consumer,Aug
+ORD-1085,18-Aug-2025,North,Office Supplies,Stapler,8,₹26.82,15%,₹182.38,₹131.81,₹50.57,Consumer,Aug
+ORD-1599,18-Aug-2025,West,Technology,Headphones,6,₹104.96,5%,₹598.27,₹502.16,₹96.11,Small Business,Aug
+ORD-1192,19-Aug-2025,South,Furniture,Office Chair,6,₹159.11,5%,₹906.93,₹522.40,₹384.53,Small Business,Aug
+ORD-1040,19-Aug-2025,West,Office Supplies,Notebook,5,₹10.71,10%,₹48.20,₹34.74,₹13.46,Corporate,Aug
+ORD-1458,20-Aug-2025,West,Technology,Laptop,7,₹873.99,0%,"₹6,117.93","₹3,326.90","₹2,791.03",Consumer,Aug
+ORD-1130,20-Aug-2025,East,Furniture,Office Chair,4,₹157.78,0%,₹631.12,₹374.83,₹256.29,Small Business,Aug
+ORD-1475,20-Aug-2025,South,Office Supplies,Notebook,2,₹5.67,5%,₹10.77,₹7.68,₹3.09,Corporate,Aug
+ORD-1341,20-Aug-2025,East,Technology,Headphones,1,₹71.31,10%,₹64.18,₹44.23,₹19.95,Corporate,Aug
+ORD-1099,21-Aug-2025,North,Office Supplies,Folder Pack,1,₹10.96,0%,₹10.96,₹6.31,₹4.65,Corporate,Aug
+ORD-1600,23-Aug-2025,East,Office Supplies,Stapler,6,₹15.00,0%,₹90.00,₹51.99,₹38.01,Consumer,Aug
+ORD-1569,23-Aug-2025,West,Office Supplies,Printer Paper,3,₹9.84,15%,₹25.09,₹16.81,₹8.28,Consumer,Aug
+ORD-1026,24-Aug-2025,North,Furniture,Bookshelf,8,₹67.32,10%,₹484.70,₹370.96,₹113.74,Consumer,Aug
+ORD-1502,26-Aug-2025,South,Furniture,Filing Cabinet,6,₹285.64,15%,"₹1,456.76",₹901.71,₹555.05,Small Business,Aug
+ORD-1244,26-Aug-2025,North,Furniture,Desk,5,₹138.97,10%,₹625.37,₹370.32,₹255.05,Consumer,Aug
+ORD-1123,27-Aug-2025,West,Technology,Laptop,4,₹930.33,0%,"₹3,721.32","₹2,926.51",₹794.81,Small Business,Aug
+ORD-1003,27-Aug-2025,East,Office Supplies,Pen Pack,4,₹14.37,15%,₹48.86,₹39.57,₹9.29,Consumer,Aug
+ORD-1316,29-Aug-2025,South,Office Supplies,Folder Pack,5,₹18.34,15%,₹77.95,₹74.08,₹3.87,Small Business,Aug
+ORD-1255,30-Aug-2025,South,Technology,Headphones,3,₹137.18,0%,₹411.54,₹320.49,₹91.05,Small Business,Aug
+ORD-1372,30-Aug-2025,South,Technology,Laptop,7,₹793.30,0%,"₹5,553.10","₹3,303.34","₹2,249.76",Corporate,Aug
+ORD-1446,30-Aug-2025,North,Furniture,Filing Cabinet,6,₹283.49,5%,"₹1,615.89",₹886.33,₹729.56,Corporate,Aug
+ORD-1156,30-Aug-2025,South,Technology,Monitor,6,₹135.38,10%,₹731.05,₹427.68,₹303.37,Consumer,Aug
+ORD-1237,31-Aug-2025,West,Office Supplies,Folder Pack,4,₹4.58,10%,₹16.49,₹10.22,₹6.27,Small Business,Aug
+ORD-1108,31-Aug-2025,East,Office Supplies,Folder Pack,2,₹7.89,0%,₹15.78,₹9.33,₹6.45,Small Business,Aug
+ORD-1162,31-Aug-2025,East,Technology,Monitor,6,₹218.62,10%,"₹1,180.55",₹689.35,₹491.20,Consumer,Aug
+ORD-1479,31-Aug-2025,South,Office Supplies,Printer Paper,1,₹4.81,0%,₹4.81,₹3.22,₹1.59,Consumer,Aug
+ORD-1122,01-Sep-2025,West,Furniture,Table,1,₹318.08,5%,₹302.18,₹210.84,₹91.34,Corporate,Sep
+ORD-1311,01-Sep-2025,West,Office Supplies,Stapler,8,₹7.22,5%,₹54.87,₹46.37,₹8.50,Corporate,Sep
+ORD-1283,02-Sep-2025,South,Office Supplies,Pen Pack,3,₹9.69,15%,₹24.71,₹21.42,₹3.29,Corporate,Sep
+ORD-1080,02-Sep-2025,West,Furniture,Table,1,₹239.34,10%,₹215.41,₹186.72,₹28.69,Small Business,Sep
+ORD-1312,03-Sep-2025,North,Office Supplies,Folder Pack,4,₹14.35,5%,₹54.53,₹42.82,₹11.71,Corporate,Sep
+ORD-1049,05-Sep-2025,West,Office Supplies,Pen Pack,5,₹11.15,15%,₹47.39,₹45.24,₹2.15,Corporate,Sep
+ORD-1416,05-Sep-2025,West,Technology,Laptop,2,₹786.34,0%,"₹1,572.68","₹1,272.62",₹300.06,Small Business,Sep
+ORD-1257,05-Sep-2025,North,Office Supplies,Stapler,2,₹18.71,5%,₹35.55,₹28.39,₹7.16,Small Business,Sep
+ORD-1550,06-Sep-2025,West,Office Supplies,Pen Pack,7,₹7.44,0%,₹52.08,₹39.44,₹12.64,Corporate,Sep
+ORD-1060,07-Sep-2025,South,Furniture,Table,2,₹153.17,10%,₹275.71,₹174.82,₹100.89,Corporate,Sep
+ORD-1098,07-Sep-2025,East,Office Supplies,Printer Paper,2,₹9.16,10%,₹16.49,₹13.67,₹2.82,Small Business,Sep
+ORD-1191,07-Sep-2025,North,Technology,Laptop,4,"₹1,183.53",5%,"₹4,497.41","₹2,647.68","₹1,849.73",Consumer,Sep
+ORD-1075,08-Sep-2025,East,Office Supplies,Folder Pack,6,₹4.19,5%,₹23.88,₹18.97,₹4.91,Corporate,Sep
+ORD-1587,09-Sep-2025,North,Furniture,Filing Cabinet,1,₹252.86,0%,₹252.86,₹183.26,₹69.60,Small Business,Sep
+ORD-1422,11-Sep-2025,North,Office Supplies,Printer Paper,8,₹5.75,5%,₹43.70,₹27.48,₹16.22,Consumer,Sep
+ORD-1184,12-Sep-2025,North,Office Supplies,Pen Pack,3,₹8.91,15%,₹22.72,₹16.93,₹5.79,Corporate,Sep
+ORD-1008,12-Sep-2025,East,Technology,Keyboard,4,₹74.36,0%,₹297.44,₹163.52,₹133.92,Consumer,Sep
+ORD-1175,12-Sep-2025,West,Technology,Mouse,2,₹47.12,15%,₹80.10,₹56.30,₹23.80,Consumer,Sep
+ORD-1204,13-Sep-2025,West,Office Supplies,Stapler,3,₹28.19,0%,₹84.57,₹44.98,₹39.59,Consumer,Sep
+ORD-1086,13-Sep-2025,West,Furniture,Bookshelf,6,₹175.20,15%,₹893.52,₹655.31,₹238.21,Consumer,Sep
+ORD-1043,13-Sep-2025,West,Technology,Monitor,1,₹382.04,15%,₹324.73,₹212.13,₹112.60,Consumer,Sep
+ORD-1223,14-Sep-2025,North,Technology,Laptop,6,₹539.01,15%,"₹2,748.95","₹2,549.79",₹199.16,Consumer,Sep
+ORD-1110,15-Sep-2025,South,Furniture,Table,8,₹158.95,10%,"₹1,144.44",₹919.86,₹224.58,Small Business,Sep
+ORD-1541,16-Sep-2025,West,Furniture,Desk,1,₹583.27,10%,₹524.94,₹376.04,₹148.90,Corporate,Sep
+ORD-1015,19-Sep-2025,East,Technology,Keyboard,8,₹66.15,15%,₹449.82,₹302.23,₹147.59,Small Business,Sep
+ORD-1212,19-Sep-2025,West,Technology,Laptop,3,₹475.63,10%,"₹1,284.20","₹1,084.10",₹200.10,Corporate,Sep
+ORD-1177,19-Sep-2025,South,Office Supplies,Folder Pack,3,₹4.21,5%,₹12.00,₹9.42,₹2.58,Consumer,Sep
+ORD-1430,19-Sep-2025,South,Furniture,Bookshelf,2,₹78.68,0%,₹157.36,₹115.88,₹41.48,Small Business,Sep
+ORD-1395,20-Sep-2025,East,Office Supplies,Pen Pack,8,₹10.59,15%,₹72.01,₹60.67,₹11.34,Small Business,Sep
+ORD-1236,20-Sep-2025,West,Office Supplies,Stapler,3,₹15.73,10%,₹42.47,₹38.51,₹3.96,Consumer,Sep
+ORD-1174,21-Sep-2025,East,Office Supplies,Stapler,1,₹26.49,5%,₹25.17,₹20.54,₹4.63,Consumer,Sep
+ORD-1225,21-Sep-2025,East,Office Supplies,Printer Paper,2,₹6.19,20%,₹9.90,₹8.13,₹1.77,Consumer,Sep
+ORD-1461,22-Sep-2025,West,Office Supplies,Folder Pack,8,₹13.11,10%,₹94.39,₹76.87,₹17.52,Corporate,Sep
+ORD-1318,23-Sep-2025,West,Technology,Keyboard,3,₹43.08,0%,₹129.24,₹70.40,₹58.84,Corporate,Sep
+ORD-1317,24-Sep-2025,East,Technology,Monitor,2,₹380.91,10%,₹685.64,₹492.71,₹192.93,Small Business,Sep
+ORD-1377,26-Sep-2025,North,Furniture,Bookshelf,5,₹175.96,20%,₹703.84,₹480.84,₹223.00,Corporate,Sep
+ORD-1013,26-Sep-2025,West,Office Supplies,Printer Paper,1,₹21.90,10%,₹19.71,₹16.77,₹2.94,Small Business,Sep
+ORD-1215,26-Sep-2025,West,Technology,Headphones,4,₹161.31,0%,₹645.24,₹508.53,₹136.71,Small Business,Sep
+ORD-1557,26-Sep-2025,North,Technology,Keyboard,5,₹74.74,0%,₹373.70,₹211.49,₹162.21,Corporate,Sep
+ORD-1471,27-Sep-2025,East,Office Supplies,Printer Paper,1,₹19.49,0%,₹19.49,₹10.64,₹8.85,Small Business,Sep
+ORD-1432,27-Sep-2025,North,Office Supplies,Pen Pack,1,₹5.60,20%,₹4.48,₹3.02,₹1.46,Consumer,Sep
+ORD-1059,29-Sep-2025,North,Office Supplies,Notebook,5,₹3.83,0%,₹19.15,₹13.71,₹5.44,Consumer,Sep
+ORD-1062,29-Sep-2025,East,Office Supplies,Printer Paper,1,₹13.17,20%,₹10.54,₹8.77,₹1.77,Corporate,Sep
+ORD-1512,30-Sep-2025,North,Furniture,Filing Cabinet,8,₹201.22,0%,"₹1,609.76","₹1,148.50",₹461.26,Corporate,Sep
+ORD-1378,30-Sep-2025,East,Furniture,Filing Cabinet,4,₹213.31,5%,₹810.58,₹541.97,₹268.61,Consumer,Sep
+ORD-1391,30-Sep-2025,South,Office Supplies,Notebook,3,₹3.57,0%,₹10.71,₹6.37,₹4.34,Small Business,Sep
+ORD-1360,01-Oct-2025,South,Furniture,Bookshelf,5,₹173.38,5%,₹823.55,₹690.91,₹132.64,Consumer,Oct
+ORD-1463,01-Oct-2025,North,Technology,Headphones,1,₹128.02,0%,₹128.02,₹77.16,₹50.86,Consumer,Oct
+ORD-1493,02-Oct-2025,West,Technology,Keyboard,3,₹38.57,10%,₹104.14,₹87.48,₹16.66,Small Business,Oct
+ORD-1234,04-Oct-2025,North,Office Supplies,Pen Pack,2,₹11.01,10%,₹19.82,₹13.95,₹5.87,Corporate,Oct
+ORD-1042,04-Oct-2025,West,Office Supplies,Folder Pack,6,₹15.00,0%,₹90.00,₹71.18,₹18.82,Consumer,Oct
+ORD-1247,04-Oct-2025,North,Furniture,Bookshelf,4,₹173.65,15%,₹590.41,₹568.53,₹21.88,Small Business,Oct
+ORD-1051,05-Oct-2025,South,Furniture,Office Chair,4,₹113.34,0%,₹453.36,₹341.82,₹111.54,Small Business,Oct
+ORD-1014,05-Oct-2025,South,Office Supplies,Printer Paper,2,₹4.93,5%,₹9.37,₹6.09,₹3.28,Small Business,Oct
+ORD-1207,06-Oct-2025,East,Office Supplies,Pen Pack,3,₹4.35,0%,₹13.05,₹7.58,₹5.47,Consumer,Oct
+ORD-1128,07-Oct-2025,North,Technology,Mouse,1,₹62.93,10%,₹56.64,₹42.58,₹14.06,Corporate,Oct
+ORD-1489,07-Oct-2025,East,Furniture,Filing Cabinet,1,₹95.34,10%,₹85.81,₹68.11,₹17.70,Small Business,Oct
+ORD-1423,07-Oct-2025,West,Office Supplies,Notebook,2,₹11.53,0%,₹23.06,₹18.63,₹4.43,Small Business,Oct
+ORD-1089,08-Oct-2025,South,Office Supplies,Stapler,2,₹9.39,15%,₹15.96,₹11.26,₹4.70,Small Business,Oct
+ORD-1320,08-Oct-2025,East,Office Supplies,Printer Paper,2,₹8.39,15%,₹14.26,₹9.72,₹4.54,Corporate,Oct
+ORD-1370,09-Oct-2025,North,Technology,Keyboard,6,₹45.42,0%,₹272.52,₹175.63,₹96.89,Corporate,Oct
+ORD-1173,09-Oct-2025,North,Office Supplies,Folder Pack,2,₹6.73,5%,₹12.79,₹10.81,₹1.98,Corporate,Oct
+ORD-1002,10-Oct-2025,West,Office Supplies,Notebook,5,₹8.02,5%,₹38.09,₹23.98,₹14.11,Consumer,Oct
+ORD-1402,11-Oct-2025,East,Furniture,Office Chair,4,₹243.40,0%,₹973.60,₹529.49,₹444.11,Small Business,Oct
+ORD-1112,12-Oct-2025,East,Office Supplies,Stapler,7,₹29.60,5%,₹196.84,₹147.42,₹49.42,Small Business,Oct
+ORD-1107,12-Oct-2025,North,Office Supplies,Folder Pack,4,₹17.90,5%,₹68.02,₹53.23,₹14.79,Consumer,Oct
+ORD-1210,12-Oct-2025,West,Office Supplies,Folder Pack,2,₹16.04,15%,₹27.27,₹19.65,₹7.62,Corporate,Oct
+ORD-1598,12-Oct-2025,West,Office Supplies,Folder Pack,1,₹18.79,0%,₹18.79,₹10.57,₹8.22,Small Business,Oct
+ORD-1050,12-Oct-2025,West,Technology,Mouse,7,₹37.38,5%,₹248.58,₹164.45,₹84.13,Corporate,Oct
+ORD-1025,13-Oct-2025,East,Office Supplies,Folder Pack,1,₹19.07,5%,₹18.12,₹15.20,₹2.92,Small Business,Oct
+ORD-1278,13-Oct-2025,East,Furniture,Office Chair,4,₹241.57,10%,₹869.65,₹693.02,₹176.63,Corporate,Oct
+ORD-1476,14-Oct-2025,North,Furniture,Filing Cabinet,7,₹189.78,0%,"₹1,328.46","₹1,018.31",₹310.15,Consumer,Oct
+ORD-1016,14-Oct-2025,East,Office Supplies,Folder Pack,3,₹11.39,20%,₹27.34,₹21.67,₹5.67,Corporate,Oct
+ORD-1160,14-Oct-2025,East,Furniture,Desk,7,₹467.91,10%,"₹2,947.83","₹2,639.77",₹308.06,Corporate,Oct
+ORD-1249,15-Oct-2025,West,Technology,Monitor,2,₹333.94,5%,₹634.49,₹531.48,₹103.01,Small Business,Oct
+ORD-1106,15-Oct-2025,East,Office Supplies,Stapler,5,₹24.52,15%,₹104.21,₹90.54,₹13.67,Consumer,Oct
+ORD-1213,15-Oct-2025,East,Office Supplies,Folder Pack,5,₹17.57,0%,₹87.85,₹52.95,₹34.90,Small Business,Oct
+ORD-1559,17-Oct-2025,South,Furniture,Office Chair,7,₹347.98,10%,"₹2,192.27","₹1,889.38",₹302.89,Small Business,Oct
+ORD-1261,17-Oct-2025,West,Office Supplies,Pen Pack,4,₹7.90,0%,₹31.60,₹18.81,₹12.79,Small Business,Oct
+ORD-1135,18-Oct-2025,North,Technology,Monitor,6,₹308.93,10%,"₹1,668.22","₹1,005.05",₹663.17,Small Business,Oct
+ORD-1484,18-Oct-2025,East,Office Supplies,Notebook,3,₹6.24,0%,₹18.72,₹14.88,₹3.84,Corporate,Oct
+ORD-1071,18-Oct-2025,West,Technology,Mouse,3,₹16.64,20%,₹39.94,₹28.27,₹11.67,Consumer,Oct
+ORD-1105,18-Oct-2025,North,Technology,Keyboard,1,₹89.39,0%,₹89.39,₹63.08,₹26.31,Corporate,Oct
+ORD-1591,20-Oct-2025,South,Furniture,Desk,2,₹506.06,5%,₹961.51,₹740.74,₹220.77,Corporate,Oct
+ORD-1596,20-Oct-2025,East,Technology,Headphones,2,₹89.88,10%,₹161.78,₹142.80,₹18.98,Consumer,Oct
+ORD-1428,21-Oct-2025,South,Furniture,Desk,7,₹338.01,0%,"₹2,366.07","₹1,367.36",₹998.71,Consumer,Oct
+ORD-1092,21-Oct-2025,West,Office Supplies,Printer Paper,6,₹20.29,10%,₹109.57,₹77.12,₹32.45,Consumer,Oct
+ORD-1551,21-Oct-2025,South,Technology,Mouse,8,₹29.32,10%,₹211.10,₹141.54,₹69.56,Small Business,Oct
+ORD-1472,21-Oct-2025,North,Office Supplies,Pen Pack,3,₹9.51,10%,₹25.68,₹21.69,₹3.99,Consumer,Oct
+ORD-1103,21-Oct-2025,North,Technology,Monitor,1,₹165.34,10%,₹148.81,₹124.81,₹24.00,Consumer,Oct
+ORD-1291,22-Oct-2025,North,Furniture,Filing Cabinet,1,₹286.28,15%,₹243.34,₹194.59,₹48.75,Small Business,Oct
+ORD-1227,23-Oct-2025,East,Office Supplies,Printer Paper,8,₹23.90,0%,₹191.20,₹119.80,₹71.40,Small Business,Oct
+ORD-1336,23-Oct-2025,West,Technology,Monitor,3,₹299.99,20%,₹719.98,₹534.74,₹185.24,Consumer,Oct
+ORD-1166,25-Oct-2025,West,Technology,Keyboard,1,₹85.95,15%,₹73.06,₹49.89,₹23.17,Consumer,Oct
+ORD-1514,26-Oct-2025,South,Office Supplies,Stapler,4,₹28.98,10%,₹104.33,₹94.63,₹9.70,Consumer,Oct
+ORD-1149,27-Oct-2025,South,Office Supplies,Printer Paper,8,₹8.28,5%,₹62.93,₹50.99,₹11.94,Consumer,Oct
+ORD-1028,28-Oct-2025,South,Technology,Keyboard,4,₹82.93,0%,₹331.72,₹259.95,₹71.77,Consumer,Oct
+ORD-1524,29-Oct-2025,North,Technology,Keyboard,3,₹83.93,5%,₹239.20,₹200.87,₹38.33,Consumer,Oct
+ORD-1302,29-Oct-2025,North,Technology,Monitor,5,₹127.01,0%,₹635.05,₹418.57,₹216.48,Small Business,Oct
+ORD-1433,29-Oct-2025,East,Furniture,Desk,7,₹426.96,10%,"₹2,689.85","₹2,192.27",₹497.58,Consumer,Oct
+ORD-1482,30-Oct-2025,West,Office Supplies,Pen Pack,6,₹13.41,10%,₹72.41,₹45.10,₹27.31,Consumer,Oct
+ORD-1334,30-Oct-2025,East,Office Supplies,Pen Pack,8,₹13.33,5%,₹101.31,₹67.86,₹33.45,Small Business,Oct
+ORD-1553,30-Oct-2025,South,Technology,Laptop,2,₹520.92,0%,"₹1,041.84",₹839.40,₹202.44,Corporate,Oct
+ORD-1038,30-Oct-2025,South,Office Supplies,Pen Pack,4,₹5.83,0%,₹23.32,₹12.80,₹10.52,Consumer,Oct
+ORD-1388,31-Oct-2025,South,Technology,Monitor,2,₹167.22,0%,₹334.44,₹215.88,₹118.56,Small Business,Oct
+ORD-1101,31-Oct-2025,East,Technology,Mouse,3,₹26.45,0%,₹79.35,₹44.48,₹34.87,Consumer,Oct
+ORD-1084,31-Oct-2025,West,Furniture,Filing Cabinet,8,₹121.79,10%,₹876.89,₹754.47,₹122.42,Consumer,Oct
+ORD-1090,31-Oct-2025,West,Furniture,Filing Cabinet,7,₹225.87,15%,"₹1,343.93",₹933.76,₹410.17,Consumer,Oct
+ORD-1545,31-Oct-2025,South,Furniture,Desk,2,₹532.41,0%,"₹1,064.82",₹620.85,₹443.97,Small Business,Oct
+ORD-1582,01-Nov-2025,West,Technology,Keyboard,3,₹54.23,0%,₹162.69,₹118.07,₹44.62,Corporate,Nov
+ORD-1589,02-Nov-2025,East,Technology,Monitor,6,₹317.53,0%,"₹1,905.18","₹1,152.62",₹752.56,Corporate,Nov
+ORD-1513,03-Nov-2025,North,Office Supplies,Folder Pack,6,₹12.64,5%,₹72.05,₹57.86,₹14.19,Corporate,Nov
+ORD-1019,03-Nov-2025,North,Technology,Mouse,4,₹35.89,10%,₹129.20,₹114.57,₹14.63,Small Business,Nov
+ORD-1459,03-Nov-2025,South,Furniture,Office Chair,6,₹108.66,5%,₹619.36,₹405.26,₹214.10,Consumer,Nov
+ORD-1590,04-Nov-2025,North,Office Supplies,Printer Paper,5,₹11.70,5%,₹55.57,₹41.02,₹14.55,Consumer,Nov
+ORD-1093,04-Nov-2025,West,Technology,Mouse,7,₹22.78,0%,₹159.46,₹110.24,₹49.22,Corporate,Nov
+ORD-1361,05-Nov-2025,North,Furniture,Table,3,₹297.33,0%,₹891.99,₹719.62,₹172.37,Small Business,Nov
+ORD-1477,06-Nov-2025,East,Furniture,Desk,2,₹169.68,5%,₹322.39,₹244.87,₹77.52,Small Business,Nov
+ORD-1297,07-Nov-2025,East,Technology,Keyboard,6,₹21.32,20%,₹102.34,₹88.99,₹13.35,Consumer,Nov
+ORD-1560,07-Nov-2025,South,Office Supplies,Folder Pack,4,₹16.63,15%,₹56.54,₹44.07,₹12.47,Small Business,Nov
+ORD-1146,08-Nov-2025,South,Furniture,Bookshelf,2,₹221.45,20%,₹354.32,₹260.06,₹94.26,Small Business,Nov
+ORD-1151,09-Nov-2025,West,Technology,Keyboard,7,₹41.53,0%,₹290.71,₹198.90,₹91.81,Consumer,Nov
+ORD-1125,09-Nov-2025,West,Technology,Laptop,8,"₹1,141.42",0%,"₹9,131.36","₹5,211.64","₹3,919.72",Consumer,Nov
+ORD-1232,09-Nov-2025,North,Office Supplies,Printer Paper,4,₹5.27,5%,₹20.03,₹12.57,₹7.46,Consumer,Nov
+ORD-1037,10-Nov-2025,North,Office Supplies,Stapler,5,₹6.00,5%,₹28.50,₹20.30,₹8.20,Small Business,Nov
+ORD-1006,10-Nov-2025,East,Office Supplies,Folder Pack,7,₹5.92,15%,₹35.22,₹27.39,₹7.83,Corporate,Nov
+ORD-1427,12-Nov-2025,North,Office Supplies,Stapler,6,₹11.77,0%,₹70.62,₹40.16,₹30.46,Small Business,Nov
+ORD-1504,13-Nov-2025,North,Office Supplies,Pen Pack,6,₹14.90,10%,₹80.46,₹54.57,₹25.89,Small Business,Nov
+ORD-1492,13-Nov-2025,South,Office Supplies,Notebook,7,₹3.34,5%,₹22.21,₹12.54,₹9.67,Corporate,Nov
+ORD-1396,16-Nov-2025,East,Furniture,Table,2,₹360.03,10%,₹648.05,₹434.53,₹213.52,Small Business,Nov
+ORD-1558,16-Nov-2025,West,Technology,Monitor,2,₹242.93,10%,₹437.27,₹379.11,₹58.16,Small Business,Nov
+ORD-1517,18-Nov-2025,West,Technology,Headphones,1,₹84.05,5%,₹79.85,₹54.61,₹25.24,Small Business,Nov
+ORD-1375,20-Nov-2025,North,Furniture,Desk,3,₹383.23,0%,"₹1,149.69",₹606.20,₹543.49,Corporate,Nov
+ORD-1035,21-Nov-2025,North,Technology,Mouse,3,₹62.46,0%,₹187.38,₹126.69,₹60.69,Corporate,Nov
+ORD-1565,21-Nov-2025,East,Technology,Headphones,7,₹93.39,0%,₹653.73,₹377.00,₹276.73,Consumer,Nov
+ORD-1048,22-Nov-2025,East,Furniture,Filing Cabinet,5,₹286.98,0%,"₹1,434.90","₹1,088.71",₹346.19,Small Business,Nov
+ORD-1358,22-Nov-2025,East,Furniture,Desk,5,₹208.23,0%,"₹1,041.15",₹555.44,₹485.71,Small Business,Nov
+ORD-1362,22-Nov-2025,South,Furniture,Filing Cabinet,8,₹177.00,0%,"₹1,416.00","₹1,081.48",₹334.52,Small Business,Nov
+ORD-1389,22-Nov-2025,North,Furniture,Office Chair,3,₹297.57,20%,₹714.17,₹698.62,₹15.55,Small Business,Nov
+ORD-1579,23-Nov-2025,South,Technology,Monitor,2,₹207.47,0%,₹414.94,₹218.28,₹196.66,Consumer,Nov
+ORD-1364,23-Nov-2025,North,Technology,Headphones,7,₹124.69,10%,₹785.55,₹524.69,₹260.86,Small Business,Nov
+ORD-1095,24-Nov-2025,North,Office Supplies,Stapler,1,₹14.88,10%,₹13.39,₹9.40,₹3.99,Consumer,Nov
+ORD-1304,24-Nov-2025,West,Furniture,Bookshelf,6,₹135.25,0%,₹811.50,₹446.31,₹365.19,Corporate,Nov
+ORD-1179,25-Nov-2025,South,Office Supplies,Notebook,4,₹11.53,10%,₹41.51,₹25.59,₹15.92,Corporate,Nov
+ORD-1592,26-Nov-2025,South,Furniture,Office Chair,1,₹97.34,10%,₹87.61,₹60.65,₹26.96,Corporate,Nov
+ORD-1220,26-Nov-2025,West,Technology,Laptop,2,₹888.12,0%,"₹1,776.24","₹1,419.00",₹357.24,Small Business,Nov
+ORD-1067,27-Nov-2025,East,Office Supplies,Stapler,6,₹13.69,10%,₹73.93,₹59.27,₹14.66,Small Business,Nov
+ORD-1345,27-Nov-2025,North,Furniture,Table,4,₹90.54,0%,₹362.16,₹266.99,₹95.17,Corporate,Nov
+ORD-1202,28-Nov-2025,South,Furniture,Table,2,₹308.35,20%,₹493.36,₹383.87,₹109.49,Small Business,Nov
+ORD-1529,01-Dec-2025,East,Office Supplies,Notebook,7,₹4.57,10%,₹28.79,₹17.34,₹11.45,Consumer,Dec
+ORD-1153,01-Dec-2025,North,Technology,Headphones,3,₹76.25,0%,₹228.75,₹131.90,₹96.85,Corporate,Dec
+ORD-1324,01-Dec-2025,North,Furniture,Table,1,₹376.62,5%,₹357.79,₹259.73,₹98.06,Corporate,Dec
+ORD-1530,03-Dec-2025,East,Office Supplies,Stapler,6,₹15.04,10%,₹81.22,₹71.70,₹9.52,Small Business,Dec
+ORD-1061,03-Dec-2025,North,Technology,Mouse,8,₹21.27,0%,₹170.16,₹113.89,₹56.27,Corporate,Dec
+ORD-1586,04-Dec-2025,South,Office Supplies,Printer Paper,5,₹10.10,5%,₹47.97,₹36.65,₹11.32,Corporate,Dec
+ORD-1577,04-Dec-2025,South,Furniture,Office Chair,1,₹129.92,10%,₹116.93,₹93.01,₹23.92,Corporate,Dec
+ORD-1264,04-Dec-2025,West,Office Supplies,Notebook,1,₹9.62,20%,₹7.70,₹5.13,₹2.57,Consumer,Dec
+ORD-1452,04-Dec-2025,South,Technology,Keyboard,2,₹28.97,5%,₹55.04,₹31.87,₹23.17,Corporate,Dec
+ORD-1527,04-Dec-2025,West,Furniture,Office Chair,4,₹307.67,0%,"₹1,230.68",₹921.27,₹309.41,Small Business,Dec
+ORD-1438,05-Dec-2025,North,Furniture,Office Chair,1,₹109.93,10%,₹98.94,₹89.70,₹9.24,Consumer,Dec
+ORD-1499,05-Dec-2025,North,Office Supplies,Stapler,2,₹6.01,5%,₹11.42,₹9.42,₹2.00,Consumer,Dec
+ORD-1024,05-Dec-2025,South,Furniture,Desk,5,₹565.20,10%,"₹2,543.40","₹2,036.65",₹506.75,Small Business,Dec
+ORD-1421,05-Dec-2025,North,Office Supplies,Pen Pack,7,₹16.74,15%,₹99.60,₹94.84,₹4.76,Consumer,Dec
+ORD-1470,07-Dec-2025,North,Furniture,Filing Cabinet,7,₹195.59,10%,"₹1,232.22",₹831.84,₹400.38,Small Business,Dec
+ORD-1491,07-Dec-2025,East,Technology,Headphones,7,₹104.96,0%,₹734.72,₹493.58,₹241.14,Small Business,Dec
+ORD-1382,08-Dec-2025,East,Office Supplies,Printer Paper,3,₹9.13,15%,₹23.28,₹14.53,₹8.75,Consumer,Dec
+ORD-1409,08-Dec-2025,East,Office Supplies,Stapler,5,₹5.12,0%,₹25.60,₹18.19,₹7.41,Small Business,Dec
+ORD-1348,08-Dec-2025,North,Office Supplies,Folder Pack,5,₹8.37,0%,₹41.85,₹33.62,₹8.23,Consumer,Dec
+ORD-1319,09-Dec-2025,South,Furniture,Bookshelf,4,₹228.67,10%,₹823.21,₹618.59,₹204.62,Consumer,Dec
+ORD-1286,09-Dec-2025,East,Furniture,Office Chair,2,₹302.09,5%,₹573.97,₹454.19,₹119.78,Corporate,Dec
+ORD-1181,09-Dec-2025,West,Technology,Laptop,1,₹664.95,0%,₹664.95,₹433.76,₹231.19,Small Business,Dec
+ORD-1081,10-Dec-2025,East,Technology,Mouse,8,₹46.81,15%,₹318.31,₹296.81,₹21.50,Corporate,Dec
+ORD-1383,12-Dec-2025,East,Office Supplies,Pen Pack,6,₹17.99,0%,₹107.94,₹61.34,₹46.60,Consumer,Dec
+ORD-1571,13-Dec-2025,East,Furniture,Bookshelf,7,₹157.39,0%,"₹1,101.73",₹791.72,₹310.01,Consumer,Dec
+ORD-1340,14-Dec-2025,East,Technology,Mouse,7,₹18.20,5%,₹121.03,₹100.37,₹20.66,Small Business,Dec
+ORD-1448,15-Dec-2025,East,Office Supplies,Stapler,8,₹19.76,0%,₹158.08,₹117.67,₹40.41,Small Business,Dec
+ORD-1293,15-Dec-2025,East,Technology,Mouse,2,₹60.20,0%,₹120.40,₹70.80,₹49.60,Small Business,Dec
+ORD-1274,16-Dec-2025,North,Furniture,Table,3,₹345.02,10%,₹931.55,₹720.25,₹211.30,Small Business,Dec
+ORD-1195,17-Dec-2025,South,Technology,Keyboard,7,₹51.19,5%,₹340.41,₹291.31,₹49.10,Consumer,Dec
+ORD-1515,17-Dec-2025,North,Office Supplies,Pen Pack,8,₹16.78,10%,₹120.82,₹94.35,₹26.47,Small Business,Dec
+ORD-1451,17-Dec-2025,East,Office Supplies,Stapler,7,₹21.93,0%,₹153.51,₹109.67,₹43.84,Corporate,Dec
+ORD-1337,18-Dec-2025,North,Office Supplies,Pen Pack,2,₹5.09,15%,₹8.65,₹5.99,₹2.66,Consumer,Dec
+ORD-1503,18-Dec-2025,West,Office Supplies,Notebook,7,₹6.51,10%,₹41.01,₹23.79,₹17.22,Corporate,Dec
+ORD-1200,18-Dec-2025,South,Office Supplies,Pen Pack,6,₹10.42,0%,₹62.52,₹36.98,₹25.54,Consumer,Dec
+ORD-1466,19-Dec-2025,South,Office Supplies,Printer Paper,5,₹14.23,20%,₹56.92,₹53.14,₹3.78,Corporate,Dec
+ORD-1417,20-Dec-2025,South,Office Supplies,Notebook,7,₹9.24,15%,₹54.98,₹51.23,₹3.75,Corporate,Dec
+ORD-1064,20-Dec-2025,North,Technology,Monitor,6,₹134.23,20%,₹644.30,₹532.12,₹112.18,Corporate,Dec
+ORD-1208,20-Dec-2025,North,Technology,Mouse,5,₹65.71,5%,₹312.12,₹223.27,₹88.85,Small Business,Dec
+ORD-1355,20-Dec-2025,West,Office Supplies,Pen Pack,8,₹15.70,10%,₹113.04,₹88.93,₹24.11,Small Business,Dec
+ORD-1404,21-Dec-2025,West,Technology,Mouse,5,₹52.54,15%,₹223.29,₹143.82,₹79.47,Consumer,Dec
+ORD-1046,21-Dec-2025,South,Office Supplies,Folder Pack,3,₹6.22,0%,₹18.66,₹15.10,₹3.56,Consumer,Dec
+ORD-1325,22-Dec-2025,North,Technology,Keyboard,1,₹38.06,15%,₹32.35,₹24.32,₹8.03,Small Business,Dec
+ORD-1441,22-Dec-2025,East,Technology,Mouse,8,₹25.44,5%,₹193.34,₹116.44,₹76.90,Consumer,Dec
+ORD-1012,23-Dec-2025,South,Office Supplies,Folder Pack,6,₹4.83,0%,₹28.98,₹20.46,₹8.52,Consumer,Dec
+ORD-1594,24-Dec-2025,East,Office Supplies,Stapler,6,₹14.27,0%,₹85.62,₹47.39,₹38.23,Corporate,Dec
+ORD-1141,25-Dec-2025,West,Technology,Keyboard,4,₹96.98,5%,₹368.52,₹222.77,₹145.75,Corporate,Dec
+ORD-1555,26-Dec-2025,South,Furniture,Table,5,₹320.62,5%,"₹1,522.94",₹977.61,₹545.33,Corporate,Dec
+ORD-1265,28-Dec-2025,West,Technology,Monitor,6,₹140.12,10%,₹756.65,₹627.87,₹128.78,Small Business,Dec
+ORD-1347,28-Dec-2025,West,Office Supplies,Printer Paper,6,₹18.16,5%,₹103.51,₹78.00,₹25.51,Small Business,Dec
+ORD-1145,29-Dec-2025,West,Furniture,Desk,4,₹484.63,0%,"₹1,938.52","₹1,534.80",₹403.72,Small Business,Dec
+ORD-1356,29-Dec-2025,East,Office Supplies,Pen Pack,5,₹14.56,20%,₹58.24,₹48.61,₹9.63,Small Business,Dec
+ORD-1511,30-Dec-2025,East,Technology,Keyboard,7,₹77.36,10%,₹487.37,₹345.28,₹142.09,Corporate,Dec
+ORD-1161,30-Dec-2025,North,Office Supplies,Folder Pack,4,₹8.10,5%,₹30.78,₹20.34,₹10.44,Small Business,Dec
+ORD-1401,31-Dec-2025,West,Technology,Mouse,7,₹45.65,0%,₹319.55,₹237.65,₹81.90,Consumer,Dec
